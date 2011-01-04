@@ -1,6 +1,7 @@
 === Plugin Name ===
 Plugin URI: http://caxid.com/get-post-image/
 Tags: display post image
+Author:Caxid
 
 Adds the function display_post_image(), giving theme builders easy access to images associated with a post or page.
 
